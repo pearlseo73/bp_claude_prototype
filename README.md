@@ -1,3 +1,6 @@
+# Agent가 개발 전에 파악해야 할 규칙 및 메모리
+AGENTS.md, CLAUDE.md에 써있음
+
 # 목차
 [1] 자린고치(Jaringochi) 실행 매뉴얼
 
